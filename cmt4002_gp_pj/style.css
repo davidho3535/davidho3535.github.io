@@ -1,5 +1,6 @@
 .topCover {
 	background-image: url("assets/1.jpg");
+	background-position: 50% 25%;
 	min-height: 90vh;
 	background-size: cover;
 }
@@ -23,7 +24,7 @@
 }
 
 .navbar {
-	background-color: #49f594;
+	background-color: #ffc0e5;
 }
 
 .nav-link {
@@ -41,7 +42,8 @@
 
 .intro {
 	background-image: url("assets/2.jpg");
-	min-height: 70vh;
+	background-position: center;
+	min-height: 80vh;
 	background-size: cover;
 }
 
@@ -52,18 +54,20 @@
 
 .intro2 {
 	background-image: url("assets/3.jpg");
-	min-height: 70vh;
+	background-position: 50% 25%;
+	min-height: 80vh;
 	background-size: cover;
 }
 
 .intro3 {
 	background-image: url("assets/4.jpg");
-	min-height: 70vh;
+	min-height: 80vh;
 	background-size: cover;
 }
 
 .target {
 	background-image: url("assets/6.jpg");
+	background-position: 50% 25%;
 	min-height: 70vh;
 	background-size: cover;
 }
@@ -75,6 +79,7 @@
 
 .target3 {
 	background-image: url("assets/9.jpg");
+	background-position: 50% 0%;
 	min-height: 70vh;
 	background-size: cover;
 }
@@ -245,7 +250,7 @@
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #006113;
+  background-color: #ff9b8c;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -254,10 +259,10 @@
 }
 
 #myBtn:hover {
-  background-color: #007d18;
+  background-color: #ff8c7a;
 }
 
 .footer {
-	background-color: #88fcbb;
+	background-color: #ffdef1;
 	min-height: 40vh;
 }
