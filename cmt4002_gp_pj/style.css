@@ -19,6 +19,7 @@
 
 .topCover_donate {
 	background-image: url("assets/18.jpg");
+	background-position: 50% 50%;
 	min-height: 90vh;
 	background-size: cover;
 }
@@ -37,6 +38,7 @@
 }
 
 #pageTitle {
+	text-shadow: 0px 0px 10px #878787;
 	visibility: hidden;
 }
 
@@ -54,9 +56,13 @@
 
 .intro2 {
 	background-image: url("assets/3.jpg");
-	background-position: 50% 25%;
+	background-position: 50% 40%;
 	min-height: 80vh;
 	background-size: cover;
+}
+
+.intro2 font {
+	text-shadow: 0px 0px 5px black;
 }
 
 .intro3 {
@@ -109,7 +115,7 @@
 .pd_1_img {
 	height: 100%;
     width: 100%;
-	background-image: url("assets/11.jpg");
+	background-image: url("assets/11_1.jpg");
 	background-position: center;
 	background-size: cover;
 	transition: 0.3s;
@@ -143,7 +149,7 @@
 .pd_2_img {
 	height: 100%;
     width: 100%;
-	background-image: url("assets/11.jpg");
+	background-image: url("assets/11_2.jpg");
 	background-position: center;
 	background-size: cover;
 	transition: 0.3s;
@@ -177,7 +183,7 @@
 .pd_3_img {
 	height: 100%;
     width: 100%;
-	background-image: url("assets/11.jpg");
+	background-image: url("assets/11_3.jpg");
 	background-position: center;
 	background-size: cover;
 	transition: 0.3s;
@@ -205,6 +211,7 @@
 
 .product2 {
 	background-image: url("assets/12.jpg");
+	background-position: 50% 70%;
 	min-height: 70vh;
 	background-size: cover;
 }
@@ -217,6 +224,7 @@
 
 .product4 {
 	background-image: url("assets/16.jpg");
+	background-position: 50% 60%;
 	min-height: 70vh;
 	background-size: cover;
 }
