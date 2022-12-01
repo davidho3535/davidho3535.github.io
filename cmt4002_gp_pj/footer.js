@@ -11,26 +11,26 @@ let footer = `
 			</div>
 			<div class="gap-4 row fs-6">
 				<div class="p-3 col" style="background-color: rgba(255, 199, 231, 0.6);">
-					Phone: 12345678
+					Phone: 39871234
 				</div>
 				<div class="p-3 col" style="background-color: rgba(255, 199, 231, 0.6);">
-					Instagram
+					Instagram: @repet_wardrobe
 				</div>
 			</div>
 			<div class="gap-4 row fs-6">
 				<div class="p-3 col" style="background-color: rgba(255, 199, 231, 0.6);">
-					E-mail: something@wtf.com
+					E-mail: customerservice@repet.hk
 				</div>
 				<div class="p-3 col" style="background-color: rgba(255, 199, 231, 0.6);">
-					Facebook
+					Facebook: Re-Pet Wardrobe
 				</div>
 			</div>
 			<div class="gap-4 row fs-6">
 				<div class="p-3 col rounded-bottom" style="background-color: rgba(255, 199, 231, 0.6);">
-					Address: somewhere in Hong Kong
+					Address: D2 place, Lai Chi Kok / The Mills, Tsuen Wan
 				</div>
 				<div class="p-3 col rounded-bottom" style="background-color: rgba(255, 199, 231, 0.6);">
-					OnlyFans
+					MeWe: Re-Pet Wardrobe
 				</div>
 			</div>
 		</div>

@@ -54,6 +54,11 @@
 	background-color: rgba(0, 0, 0, 0.7);
 }
 
+.introWtColor {
+	padding: 5vh;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
 .intro2 {
 	background-image: url("assets/3.jpg");
 	background-position: 50% 40%;
@@ -86,7 +91,7 @@
 .target3 {
 	background-image: url("assets/9.jpg");
 	background-position: 50% 0%;
-	min-height: 70vh;
+	min-height: 80vh;
 	background-size: cover;
 }
 
